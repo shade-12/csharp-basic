@@ -1,0 +1,16 @@
+C:\Users\t-shadewong\Desktop\Learn\02_DotNetDebugging\bin\Debug\net5.0\02_DotNetDebugging.exe
+C:\Users\t-shadewong\Desktop\Learn\02_DotNetDebugging\bin\Debug\net5.0\02_DotNetDebugging.deps.json
+C:\Users\t-shadewong\Desktop\Learn\02_DotNetDebugging\bin\Debug\net5.0\02_DotNetDebugging.runtimeconfig.json
+C:\Users\t-shadewong\Desktop\Learn\02_DotNetDebugging\bin\Debug\net5.0\02_DotNetDebugging.runtimeconfig.dev.json
+C:\Users\t-shadewong\Desktop\Learn\02_DotNetDebugging\bin\Debug\net5.0\02_DotNetDebugging.dll
+C:\Users\t-shadewong\Desktop\Learn\02_DotNetDebugging\bin\Debug\net5.0\ref\02_DotNetDebugging.dll
+C:\Users\t-shadewong\Desktop\Learn\02_DotNetDebugging\bin\Debug\net5.0\02_DotNetDebugging.pdb
+C:\Users\t-shadewong\Desktop\Learn\02_DotNetDebugging\obj\Debug\net5.0\02_DotNetDebugging.csproj.AssemblyReference.cache
+C:\Users\t-shadewong\Desktop\Learn\02_DotNetDebugging\obj\Debug\net5.0\02_DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t-shadewong\Desktop\Learn\02_DotNetDebugging\obj\Debug\net5.0\02_DotNetDebugging.AssemblyInfoInputs.cache
+C:\Users\t-shadewong\Desktop\Learn\02_DotNetDebugging\obj\Debug\net5.0\02_DotNetDebugging.AssemblyInfo.cs
+C:\Users\t-shadewong\Desktop\Learn\02_DotNetDebugging\obj\Debug\net5.0\02_DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\Users\t-shadewong\Desktop\Learn\02_DotNetDebugging\obj\Debug\net5.0\02_DotNetDebugging.dll
+C:\Users\t-shadewong\Desktop\Learn\02_DotNetDebugging\obj\Debug\net5.0\ref\02_DotNetDebugging.dll
+C:\Users\t-shadewong\Desktop\Learn\02_DotNetDebugging\obj\Debug\net5.0\02_DotNetDebugging.pdb
+C:\Users\t-shadewong\Desktop\Learn\02_DotNetDebugging\obj\Debug\net5.0\02_DotNetDebugging.genruntimeconfig.cache
