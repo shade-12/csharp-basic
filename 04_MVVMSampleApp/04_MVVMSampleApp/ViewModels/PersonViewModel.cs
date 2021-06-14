@@ -7,7 +7,7 @@ namespace ViewModels
         public PersonViewModel(PersonViewModel person = null) : base(person) { }
         public string Name
         {
-            get { return This.Name };
+            get { return This.Name; }
             set { SetProperty(This.Name, value, () => This.Name = value); }
         }
         public int Age

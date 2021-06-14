@@ -1,4 +1,5 @@
-﻿using Data;
+﻿using System.Collections.Generic;
+using Data;
 
 namespace Models
 {
@@ -27,7 +28,7 @@ namespace Models
             if (People.Contains(person))
             {
                 People.Remove(person);
-                FakeService.Delete(Person);
+                FakeService.Delete(person);
             }
         }
 

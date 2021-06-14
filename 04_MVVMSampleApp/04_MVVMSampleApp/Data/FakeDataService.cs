@@ -1,4 +1,5 @@
-﻿using System.Diagnostics;
+﻿using System.Collections.Generic;
+using System.Diagnostics;
 
 namespace Data
 {
@@ -12,7 +13,7 @@ namespace Data
     {
         public static string Name = "Fake Data Service.";
 
-        public static List<Person>  GetPeople()
+        public static List<Person> GetPeople()
         {
             Debug.WriteLine("GET for people.");
             return new List<Person>()
